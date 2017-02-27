@@ -2,6 +2,8 @@
 
 #program info
 __title__ = "Screen Size Calculator"
+__description__ = """This program calculates the dimensions of a screen
+                     based on the diameter and the ratio of the screen."""
 __author__ = "Peter Sz."
 __licence__ = "GPLv3"
 __version__ = "0.1"
